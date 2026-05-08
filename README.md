@@ -2,8 +2,8 @@
 # Phone Specifications Django Project
 
 ## Description
-Django project that runs a BeautifulSoup script to collect phone specifications
-and stores them in PostgreSQL.
+Django project that runs a BeautifulSoup script to scrape the phone specifications
+from the electronics store's website and stores them in PostgreSQL.
 
 ## Tech stack
 - Python
